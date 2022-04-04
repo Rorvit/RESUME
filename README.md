@@ -1,1 +1,3 @@
-# [Моё резюме] (https://rorvit.github.io/RESUME/)
+# Мое 
+
+[Резюме] (https://rorvit.github.io/RESUME/)
