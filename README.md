@@ -1,3 +1,1 @@
-# Моё резюме
-
-## Скоро здесь будет сылка
+# [Duck Duck Go] (https://rorvit.github.io/RESUME/)
