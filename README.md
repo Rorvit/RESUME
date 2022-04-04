@@ -1,1 +1,1 @@
-# [Duck Duck Go] (https://rorvit.github.io/RESUME/)
+# [Моё резюме] (https://rorvit.github.io/RESUME/)
